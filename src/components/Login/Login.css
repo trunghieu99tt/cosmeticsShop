@@ -1,0 +1,30 @@
+.Login-container {
+	max-width: 300px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: 1px solid #262626;
+	padding: 10px;
+	z-index: 600;
+	transition: all 0.5s ease-out;
+	background: #fff;
+}
+
+.login-form-forgot {
+	float: right;
+}
+
+.login-form-button {
+	width: 100%;
+}
+
+.login-form-btnCancel {
+	width: 100%;
+}
+
+@media (max-width: 450px) {
+	.Login-container {
+		width: 90%;
+	}
+}

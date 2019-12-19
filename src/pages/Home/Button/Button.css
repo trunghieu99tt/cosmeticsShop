@@ -1,0 +1,12 @@
+.viewmore {
+	padding: 1rem 2rem;
+	background: transparent;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.viewmore:hover {
+	background-color: #262626;
+	transition: 0.5s;
+	color: #fff;
+}

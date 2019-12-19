@@ -1,0 +1,12 @@
+.commentContainer {
+	width: 100%;
+	background: #ffd3d7;
+	text-align: center;
+	margin: 5rem 0;
+	position: relative;
+}
+
+.commentContainer__main {
+	width: 40%;
+	margin: 5% auto;
+}

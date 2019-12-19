@@ -1,0 +1,32 @@
+.intro__element {
+	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background: #ffd3d7;
+}
+
+.intro {
+	width: 80%;
+}
+
+.intro__button {
+	padding: 1rem 2rem;
+	background: transparent;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #262626;
+}
+
+.intro__button:hover {
+	background-color: #262626;
+	transition: 0.5s;
+	color: #fff;
+}
+
+@media (max-width: 700px) {
+	.intro__element {
+		height: 100vh;
+	}
+}

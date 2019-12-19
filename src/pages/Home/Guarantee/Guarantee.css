@@ -1,0 +1,13 @@
+.Guarantee {
+	width: 80%;
+	margin: 5% auto;
+}
+
+.Guarantee__main {
+	display: flex;
+}
+
+.Guarantee__main--content {
+	display: flex;
+	flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.HeadTop {
+	background: #262626;
+	color: #fff;
+}
+
+.logOutBtn {
+	margin-top: 1rem;
+}
+
+@media (max-width: 700px) {
+	.logOutBtn {
+		margin: 0;
+	}
+}

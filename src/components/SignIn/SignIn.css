@@ -1,0 +1,23 @@
+.SignIn-container {
+	width: 50%;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 2rem;
+	border: 1px solid;
+	z-index: 1000;
+	background: #fff;
+	transition: all 0.5s ease-out;
+	background: #fff;
+}
+
+.ant-form-item-label {
+	text-align: left;
+}
+
+@media (max-width: 450px) {
+	.SignIn-container {
+		width: 90%;
+	}
+}

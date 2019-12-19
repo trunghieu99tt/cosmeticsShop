@@ -1,0 +1,28 @@
+.BlogPost {
+	width: 80%;
+	margin: 5% auto;
+}
+
+.blogBost__btn {
+	position: relative;
+}
+
+.blogBost__btn::before {
+	content: "";
+	position: absolute;
+	width: 5%;
+	height: 2px;
+	left: 0;
+	top: 50%;
+	background: #262626;
+}
+
+.blogBost__btn:hover {
+	padding-left: 10%;
+	transition: 0.5s;
+}
+
+.blogBost__btn:hover::before {
+	width: 20%;
+	transition: 0.5s;
+}
