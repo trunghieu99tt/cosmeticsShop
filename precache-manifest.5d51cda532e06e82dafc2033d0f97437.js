@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3bd2472e891cf96b71df6493167bc48",
+    "revision": "62fcd3d45119ccd2227947d65228f98f",
     "url": "/cosmeticsShop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cosmeticsShop/static/css/2.d3f8c59e.chunk.css"
   },
   {
-    "revision": "0a53cd8f1b2d62b73962",
+    "revision": "58e1162b937258e68f22",
     "url": "/cosmeticsShop/static/css/main.bd72c354.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cosmeticsShop/static/js/2.dc9dddc8.chunk.js.LICENSE"
   },
   {
-    "revision": "0a53cd8f1b2d62b73962",
-    "url": "/cosmeticsShop/static/js/main.a5049305.chunk.js"
+    "revision": "58e1162b937258e68f22",
+    "url": "/cosmeticsShop/static/js/main.9ef3b596.chunk.js"
   },
   {
     "revision": "6c2d8aa61e16925a6ab7",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cosmeticsShop/static/media/categolaryImg1.c59d2f05.jpg"
   },
   {
-    "revision": "db819444fe19818121f8dc6305d13013",
-    "url": "/cosmeticsShop/static/media/categolaryImg10.db819444.jpg"
+    "revision": "c9681560e03d849ddbbff66e00033545",
+    "url": "/cosmeticsShop/static/media/categolaryImg10.c9681560.jpg"
   },
   {
-    "revision": "6777f83367afe5aedee561148286885f",
-    "url": "/cosmeticsShop/static/media/categolaryImg11.6777f833.jpg"
+    "revision": "4362b47463d7825fe924f293347dc576",
+    "url": "/cosmeticsShop/static/media/categolaryImg11.4362b474.jpg"
   },
   {
     "revision": "98a094958995afd49500a9fcacf2108c",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cosmeticsShop/static/media/categolaryImg8.63410868.jpg"
   },
   {
-    "revision": "1057464e531615a21b3e85272f18b073",
-    "url": "/cosmeticsShop/static/media/categolaryImg9.1057464e.jpg"
+    "revision": "8ff54b360f692c6aff460d80fdb1b449",
+    "url": "/cosmeticsShop/static/media/categolaryImg9.8ff54b36.jpg"
   },
   {
     "revision": "2c7373bcd7d29990a9c7608d8fee1e8e",
@@ -92,15 +92,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cosmeticsShop/static/media/item3.9e28256b.jpg"
   },
   {
-    "revision": "1057464e531615a21b3e85272f18b073",
-    "url": "/cosmeticsShop/static/media/slider1.1057464e.jpg"
+    "revision": "8ff54b360f692c6aff460d80fdb1b449",
+    "url": "/cosmeticsShop/static/media/slider1.8ff54b36.jpg"
   },
   {
-    "revision": "db819444fe19818121f8dc6305d13013",
-    "url": "/cosmeticsShop/static/media/slider2.db819444.jpg"
+    "revision": "c9681560e03d849ddbbff66e00033545",
+    "url": "/cosmeticsShop/static/media/slider2.c9681560.jpg"
   },
   {
-    "revision": "6777f83367afe5aedee561148286885f",
-    "url": "/cosmeticsShop/static/media/slider3.6777f833.jpg"
+    "revision": "4362b47463d7825fe924f293347dc576",
+    "url": "/cosmeticsShop/static/media/slider3.4362b474.jpg"
   }
 ]);

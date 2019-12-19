@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cosmeticsShop/static/css/main.bd72c354.chunk.css",
-    "main.js": "/cosmeticsShop/static/js/main.a5049305.chunk.js",
-    "main.js.map": "/cosmeticsShop/static/js/main.a5049305.chunk.js.map",
+    "main.js": "/cosmeticsShop/static/js/main.9ef3b596.chunk.js",
+    "main.js.map": "/cosmeticsShop/static/js/main.9ef3b596.chunk.js.map",
     "runtime-main.js": "/cosmeticsShop/static/js/runtime-main.d4aadc8b.js",
     "runtime-main.js.map": "/cosmeticsShop/static/js/runtime-main.d4aadc8b.js.map",
     "static/css/2.d3f8c59e.chunk.css": "/cosmeticsShop/static/css/2.d3f8c59e.chunk.css",
     "static/js/2.dc9dddc8.chunk.js": "/cosmeticsShop/static/js/2.dc9dddc8.chunk.js",
     "static/js/2.dc9dddc8.chunk.js.map": "/cosmeticsShop/static/js/2.dc9dddc8.chunk.js.map",
     "index.html": "/cosmeticsShop/index.html",
-    "precache-manifest.7dcf8d703ca9a0968f1b4dd041adea92.js": "/cosmeticsShop/precache-manifest.7dcf8d703ca9a0968f1b4dd041adea92.js",
+    "precache-manifest.5d51cda532e06e82dafc2033d0f97437.js": "/cosmeticsShop/precache-manifest.5d51cda532e06e82dafc2033d0f97437.js",
     "service-worker.js": "/cosmeticsShop/service-worker.js",
     "static/css/2.d3f8c59e.chunk.css.map": "/cosmeticsShop/static/css/2.d3f8c59e.chunk.css.map",
     "static/css/main.bd72c354.chunk.css.map": "/cosmeticsShop/static/css/main.bd72c354.chunk.css.map",
     "static/js/2.dc9dddc8.chunk.js.LICENSE": "/cosmeticsShop/static/js/2.dc9dddc8.chunk.js.LICENSE",
     "static/media/categolaryImg1.jpg": "/cosmeticsShop/static/media/categolaryImg1.c59d2f05.jpg",
-    "static/media/categolaryImg10.jpg": "/cosmeticsShop/static/media/categolaryImg10.db819444.jpg",
-    "static/media/categolaryImg11.jpg": "/cosmeticsShop/static/media/categolaryImg11.6777f833.jpg",
+    "static/media/categolaryImg10.jpg": "/cosmeticsShop/static/media/categolaryImg10.c9681560.jpg",
+    "static/media/categolaryImg11.jpg": "/cosmeticsShop/static/media/categolaryImg11.4362b474.jpg",
     "static/media/categolaryImg12.jpg": "/cosmeticsShop/static/media/categolaryImg12.98a09495.jpg",
     "static/media/categolaryImg2.jpg": "/cosmeticsShop/static/media/categolaryImg2.63410868.jpg",
     "static/media/categolaryImg3.jpg": "/cosmeticsShop/static/media/categolaryImg3.61aa0dd9.jpg",
@@ -25,20 +25,20 @@
     "static/media/categolaryImg6.jpg": "/cosmeticsShop/static/media/categolaryImg6.9d9652f6.jpg",
     "static/media/categolaryImg7.jpg": "/cosmeticsShop/static/media/categolaryImg7.98a09495.jpg",
     "static/media/categolaryImg8.jpg": "/cosmeticsShop/static/media/categolaryImg8.63410868.jpg",
-    "static/media/categolaryImg9.jpg": "/cosmeticsShop/static/media/categolaryImg9.1057464e.jpg",
+    "static/media/categolaryImg9.jpg": "/cosmeticsShop/static/media/categolaryImg9.8ff54b36.jpg",
     "static/media/item0.jpg": "/cosmeticsShop/static/media/item0.2c7373bc.jpg",
     "static/media/item1.jpg": "/cosmeticsShop/static/media/item1.500754e8.jpg",
     "static/media/item2.jpg": "/cosmeticsShop/static/media/item2.51300c90.jpg",
     "static/media/item3.jpg": "/cosmeticsShop/static/media/item3.9e28256b.jpg",
-    "static/media/slider1.jpg": "/cosmeticsShop/static/media/slider1.1057464e.jpg",
-    "static/media/slider2.jpg": "/cosmeticsShop/static/media/slider2.db819444.jpg",
-    "static/media/slider3.jpg": "/cosmeticsShop/static/media/slider3.6777f833.jpg"
+    "static/media/slider1.jpg": "/cosmeticsShop/static/media/slider1.8ff54b36.jpg",
+    "static/media/slider2.jpg": "/cosmeticsShop/static/media/slider2.c9681560.jpg",
+    "static/media/slider3.jpg": "/cosmeticsShop/static/media/slider3.4362b474.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4aadc8b.js",
     "static/css/2.d3f8c59e.chunk.css",
     "static/js/2.dc9dddc8.chunk.js",
     "static/css/main.bd72c354.chunk.css",
-    "static/js/main.a5049305.chunk.js"
+    "static/js/main.9ef3b596.chunk.js"
   ]
 }
